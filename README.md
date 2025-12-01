@@ -1,5 +1,3 @@
-# Data-Automation-Solutions
-
 # Portfólio de Soluções de Automação e Data Analytics
 
 **Camila Mendes** | Análise de Dados | Supply Chain Analytics | Power BI (DAX/Modelagem) | RPA | Automação de Processos | Python
